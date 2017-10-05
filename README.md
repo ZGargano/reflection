@@ -24,3 +24,10 @@ about packets. I learned about how the internet transmits and recieves data.
 ## 9/29/2017
 This week I learned about XML. I learned about subfolders. I learned about 
 HTML. I learned about nodes. I learned about making a website.
+
+---
+
+# End of Fifth Week
+## 10/5/2017
+This week I wrote my Google Friday approval. I learned more things about making a website. I learned that Mr. Gold doesn't like ice cream. 
+I learned that Kohlmyer is bad at this class.
