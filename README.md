@@ -31,3 +31,11 @@ HTML. I learned about nodes. I learned about making a website.
 ## 10/5/2017
 This week I wrote my Google Friday approval. I learned more things about making a website. I learned that Mr. Gold doesn't like ice cream. 
 I learned that Kohlmyer is bad at this class.
+
+---
+
+# End of Sixth Week
+## 10/13/2017
+I built a website this week. The website was a pizza ordering site. It has checkboxes and circles to select the size, style, and toppings of the pizza.
+The submit button didn't work but Mr. Gold said it was okay. I added pictures of all the toppings. I wanted to make the picture smaller, but I did it the
+wrong way so I had to leave them the same size. 
