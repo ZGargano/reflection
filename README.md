@@ -42,10 +42,19 @@ wrong way so I had to leave them the same size.
 
 ---
 
-# End of Seventh and Eigth Week
+# End of Seventh and Eigth Weeks
 ## 10/23/2017 
 During these past two weeks I made a website about my hobby. This website was
 based on pokemon and how they evolved over time. I added a blog, gallery, and
 evolution chart, which I am currently making in MS Paint. I also added a
 banner at the top of the webpage to be able to switch between the four 
 different pages.
+
+---
+
+# End of Ninth Week
+## 11/3/2017
+This week I continued and finished my hobby website about pokemon. I finished 
+my chart and added it to the website. I added a blog post to the blog page and
+added some images to the gallery. There's not much left that I didn't mention 
+in last week's reflection. We did learn about HTML5 yesterday though.
