@@ -58,3 +58,21 @@ This week I continued and finished my hobby website about pokemon. I finished
 my chart and added it to the website. I added a blog post to the blog page and
 added some images to the gallery. There's not much left that I didn't mention 
 in last week's reflection. We did learn about HTML5 yesterday though.
+
+---
+
+# End of Tenth Week
+## 11/12/2017
+This week I started on a new project. I was to make a logo for my favorite 
+after school activity. I chose chess and I got to work. Instead of writing
+out the word with text, I made bubble letters and drew each line individualy.
+I added a gradient on the top and bottom and added a random circle. That's it.
+
+---
+
+# End of Twelfth Week
+## 12/1/2017
+This week we started making our website on the SJNMA history. We learned how
+to edit the same document as a class. We learned how to communicate to solve 
+problems in the code. We fixed font sizes on the site because some things
+were huge. We learned how to merge code to make one website.
