@@ -76,3 +76,12 @@ This week we started making our website on the SJNMA history. We learned how
 to edit the same document as a class. We learned how to communicate to solve 
 problems in the code. We fixed font sizes on the site because some things
 were huge. We learned how to merge code to make one website.
+
+---
+# End of Thirteenth
+## 12/8/2017
+This week we learned aboutn Twitter bootstrap. Bootstrap split the website
+into columns and added a banner at the top of the page to make the text more
+organized. We added bootstrap to our history website. We also had our 
+in-progress Google friday evaluation. I forked the original 2048 code into my
+Github.
