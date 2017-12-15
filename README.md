@@ -78,10 +78,19 @@ problems in the code. We fixed font sizes on the site because some things
 were huge. We learned how to merge code to make one website.
 
 ---
-# End of Thirteenth
+
+# End of Thirteenth Week
 ## 12/8/2017
 This week we learned aboutn Twitter bootstrap. Bootstrap split the website
 into columns and added a banner at the top of the page to make the text more
 organized. We added bootstrap to our history website. We also had our 
 in-progress Google friday evaluation. I forked the original 2048 code into my
 Github.
+
+---
+
+# End of Fourteenth Week
+## 12/15/2017
+This week we finished our history website. I single handedly fixed all the 
+code to get the website to work. We put all of the info in columns and 
+made it look all pretty. We talked about net neutrality and had a fire drill.
